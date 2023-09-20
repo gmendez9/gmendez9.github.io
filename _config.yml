@@ -20,10 +20,10 @@ author: Gerardo Mendez
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  - Beautiful Jekyll: "https://beautifuljekyll.com"
+ - Learn markdown: "https://www.markdowntutorial.com/"
 - Getting Started: "gestarted"
- Table Demo: "table-demo"              # ADD THIS LINK
+ - Table Demo: "table-demo"              # ADD THIS LINK
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
