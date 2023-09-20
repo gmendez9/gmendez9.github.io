@@ -53,21 +53,21 @@ social-network-links:
   youtube: ""
 #  medium: ""
 #  reddit: ""
-#  linkedin: ""
-#  xing: ""
-#  stackoverflow: ""
-#  snapchat: ""
-#  instagram: ""
-#  spotify: ""
-#  telephone: ""
-#  steam: ""
-#  twitch: ""
-#  yelp: ""
-#  telegram: ""
-#  calendly: ""
-#  mastodon: ""
-#  ORCID: ""
-#  google-scholar: ""
+#  linkedin: 
+#  xing: 
+#  stackoverflow: 
+#  snapchat: 
+#  instagram: 
+#  spotify: 
+#  telephone: 
+#  steam:
+#  twitch:
+#  yelp: 
+#  telegram:
+#  calendly: 
+#  mastodon:
+#  ORCID:
+#  google-scholar:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
