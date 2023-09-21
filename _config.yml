@@ -42,9 +42,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "gmende15@asu.edu"
   facebook: ""
-  github: JJSpaeth
+  github: gmendez9
   twitter: ""
   patreon: ""
   youtube: ""
@@ -68,7 +68,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This is the personal Data Analytics website of John Spaeth.
+rss-description: This is a demo site created by Gerardo Mendez, Data Analyst and RA.
 
 # --- General options --- #
 
@@ -102,7 +102,7 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#2a6592"
+navbar-col: "#d1b7b7"
 navbar-text-col: "#f0f6fb"
 navbar-border-col: "#153349"
 page-col: "#f0f6fb"
