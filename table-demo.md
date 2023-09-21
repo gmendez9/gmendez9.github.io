@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: liquid-table
 title: 'amiright?'
 reynolds:
   strengths:
@@ -20,7 +20,7 @@ gosling:
   - cries a lot
   - not ryan reynolds
 ---
-![](/assets/img/ryan-v-ryan.jpg)  
+![](/assets/img/ryan-v-ryan.jpeg)  
 
 ### Lorem Ipsum
 
