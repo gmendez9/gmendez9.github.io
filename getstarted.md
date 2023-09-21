@@ -249,7 +249,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 
 .gs-section-01 h3 { 
-     color: red }
+     color: blue }
 
 .gs-section-01 p {
      font-size: 30px;
@@ -259,7 +259,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 
 .gs-section-02 h3 { 
-     color: blue }
+     color: red }
 
 .gs-section-02 p {
      font-size: 30px;
@@ -269,7 +269,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 
 .gs-section-03 h3 { 
-     color: yellow }
+     color: black }
 
 .gs-section-03 p {
      font-size: 30px;
