@@ -27,7 +27,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/IMG_3607.JPG"
+#avatar: "/assets/img/IMG_3607.JPG" - GM commented out 6/23 to test effect
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -43,11 +43,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "gmendez099@gmail.com"
-  facebook: ""
+  #facebook: ""
   github: gmendez9
-  twitter: ""
-  patreon: ""
-  youtube: ""
+  #twitter: ""
+ # patreon: ""
+ # youtube: ""
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -102,14 +102,14 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#d1b7b7"
+navbar-col: "#f0f6fb"
 navbar-text-col: "#0b0a0a"
 navbar-border-col: "#0b0a0a"
 page-col: "#f0f6fb"
 text-col: "#0b0a0a"
 link-col: "#0b0a0a"
-hover-col: "##0b0a0a"
-footer-col: "#d1b7b7"
+hover-col: "#0b0a0a"
+footer-col: "#f0f6fb"
 footer-text-col: "##0b0a0a"
 footer-link-col: "#6aa6d4"
 
