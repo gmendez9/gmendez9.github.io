@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: ThinkLab Enterprises
+title: ThinkLab Enterprises/CreateHouse 
 
 # Your name to show in the footer
-author: Gerardo Mendez
+author: ThinkLab EnterprisesGlobal 
 
 
 # --- List of links in the navigation bar --- #
@@ -42,7 +42,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "gmende15@asu.edu"
+  email: "gmendez099@gmail.com"
   facebook: ""
   github: gmendez9
   twitter: ""
@@ -68,7 +68,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This is a demo site created by Gerardo Mendez, Data Analyst and RA.
+rss-description: This website will serve as the pilot hosting site for CreateHouse, an organization fueled by selfless social and economic imopact.
 
 # --- General options --- #
 
