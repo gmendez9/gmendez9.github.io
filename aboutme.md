@@ -1,16 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+subtitle: Mission and Vision
 ---
+### Mission Statement 
 
-My name is Inigo Montoya. I have the following qualities:
+CreationHouse, a 501c3 tax-exempt organization, is a large-umbrella organization with multi-faceted objectives. However, the primary vision is simple - create a place-based approach where members of the community can share ideas, build together, and improve themselves and their local communities. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Using structured, impact-driven measurement and evaluation, we will spearhead programs that generate both social and economic return on investment. Starting with simple initiatives, like the Paternal and Maternal fund, as well as the General Wellness Fund, we will build communities from the ground up, while also placing market-rate investments to then feed and expand our social initiatives. We are a bipartisan organization working for the betterment of the public, garnishing cross-sector support to create long lasting social and economic impact. 
