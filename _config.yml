@@ -81,7 +81,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "ThinkLabEnterprises.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -102,16 +102,31 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#f0f6fb"
-navbar-text-col: "#0b0a0a"
+# navbar-col: "#f0f6fb"
+# navbar-text-col: "#0b0a0a"
+# navbar-border-col: "#0b0a0a"
+# page-col: "#f0f6fb"
+# text-col: "#0b0a0a"
+# link-col: "#0b0a0a"
+# hover-col: "#0b0a0a"
+# footer-col: "#f0f6fb"
+# footer-text-col: "##0b0a0a"
+# footer-link-col: "#6aa6d4" ## og
+
+## gpt
+
+navbar-col:        "#f0f6fb"
+navbar-text-col:   "#0b0a0a"
 navbar-border-col: "#0b0a0a"
-page-col: "#f0f6fb"
-text-col: "#0b0a0a"
-link-col: "#0b0a0a"
-hover-col: "#0b0a0a"
-footer-col: "#f0f6fb"
-footer-text-col: "##0b0a0a"
-footer-link-col: "#6aa6d4"
+
+page-col:          "#f0f6fb"
+text-col:          "#0b0a0a"
+link-col:          "#0b0a0a"
+hover-col:         "#0b0a0a"
+
+footer-col:        "#f0f6fb"
+footer-text-col:   "#0b0a0a"   # Fixed the typo: was "##0b0a0a"
+footer-link-col:   "#6aa6d4"
 
 # "#EAEAEA" light grey -> #2a6592
 # "#404040" charcoal -> #f0f6fb
