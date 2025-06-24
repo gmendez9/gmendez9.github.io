@@ -115,15 +115,15 @@ post_search: true
 
 ## gpt
 
-navbar-col: "#f0f6fb"
-navbar-text-col:   "#0b0a0a"
-navbar-border-col: "#0b0a0a"
-page-col: "#f0f6fb"
-text-col: "#0b0a0a"
-link-col: "#0b0a0a"
-hover-col: "#0b0a0a"
-footer-col: "#f0f6fb"
-footer-text-col: "#0b0a0a"   # Fixed the typo: was "##0b0a0a"
+navbar-col: "#0b0a0a"
+navbar-text-col:  "#f0f6fb"
+navbar-border-col: "#f0f6fb"
+page-col: "#0b0a0a"
+text-col: "#f0f6fb"
+link-col: "#f0f6fb"
+hover-col: "#f0f6fb"
+footer-col: "##0b0a0a"
+footer-text-col: "#f0f6fb"  # Fixed the typo: was "##0b0a0a"
 footer-link-col: "#6aa6d4"
 
 # "#EAEAEA" light grey -> #2a6592
