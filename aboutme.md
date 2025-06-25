@@ -3,7 +3,7 @@ layout: page
 title: About Us
 subtitle: Mission and Vision
 ---
-### Mission Statement 
+### Mission and Vision Statement 
 
 CreationHouse, a 501c3 tax-exempt organization, is a large-umbrella organization with multi-faceted objectives. However, the primary vision is simple - create a place-based approach where members of the community can share ideas, build together, and improve themselves and the societal fabric at large. 
 
